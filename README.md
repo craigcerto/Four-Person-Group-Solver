@@ -15,4 +15,10 @@ This was a one day programming job to help solve a problem we had been procrasti
 When I have some time I might modernize it
 
 Group calculations:
-I didn't know how else to formulate every combination of 2 groups of 4 out of 8 people, 
+I didn't know how else to formulate every combination of 2 groups of 4 out of 8 people, so I had loops create every possible combination of 
+8 digit numbers with 8 unique digits cooresponding to each person, eliminating duplicate groups.
+
+Mutual Respect is calculated before group calculations
+Then Raw Love is calculated for each group as is the Happiness score
+
+Keeping track of the happiness score, the result is the maximum found
